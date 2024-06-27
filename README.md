@@ -4,7 +4,7 @@
 
 <h3>🧑🏻‍💻 &nbsp; About Me</h3>
 
-<p>I am <strong>full stack</strong> developer with more than 13 years of experience in <strong>front-end</strong> and <strong>back-end</strong>. I have worked with php, javascript, html, css and python languages ​​and I am interested in learning. I work in <a href="http://afb.co.ir/">ArtinFanavaranBarKhat</a> Office</p>
+<p>I am <strong>full stack</strong> developer with more than 13 years of experience in <strong>front-end</strong> and <strong>back-end</strong>. I have worked with php, javascript, html, css and python languages ​​and I am interested in learning.
 
 
 -----
