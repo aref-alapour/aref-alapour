@@ -1,6 +1,6 @@
 <h2>Hi There! I,m Aref Alapour 👋🏻</h2>
 
-<a href="https://arefalapour.ir/"><img width="300px" src="https://github.com/aref-alapour/aref-alapour/blob/main/photo_2024-03-26_02-30-49.jpg" /></a>
+<a href="https://arefalapour.ir/"><img width="300px" src="https://github.com/aref-alapour/aref-alapour/blob/main/photo_2025-02-16_17-37-48.jpg" /></a>
 
 <h3>🧑🏻‍💻 &nbsp; About Me</h3>
 
