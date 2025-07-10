@@ -14,10 +14,10 @@
 
 
 > **`Front End`**
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+> > ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 > > >
 > **`Back End`**
- ![NestJS](https://img.shields.io/badge/nest.js-EB2959?style=for-the-badge&logo=nest.js&logoColor=white)
+> > ![NestJS](https://img.shields.io/badge/nest.js-EB2959?style=for-the-badge&logo=nest.js&logoColor=white)
 > > >
 > **`DataBase`**
 > > ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
