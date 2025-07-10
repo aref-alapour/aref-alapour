@@ -4,7 +4,7 @@
 
 <h3>🧑🏻‍💻 &nbsp; About Me</h3>
 
-<p>I am <strong>full stack</strong> developer with more than 13 years of experience in <strong>front-end</strong> and <strong>back-end</strong>. I have worked with php, javascript, html, css and python languages ​​and I am interested in learning.
+<p>I am <strong>full stack</strong> developer with more than 13 years of experience in <strong>front-end</strong> and <strong>back-end</strong>. I have worked with php, javascript languages ​​and I am interested in learning.
 
 
 -----
@@ -28,14 +28,12 @@
 > > > ![NestJS](https://img.shields.io/badge/nest.js-EB2959?style=for-the-badge&logo=nest.js&logoColor=white)
 > > >
 > **`DataBase`**
-> > ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+> > ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 > >
 > **`CMS`**
 > >![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 > >
 
-> **`Software`**
-> > ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![InDesign](https://img.shields.io/badge/Adobe%20InDesign-470019?style=for-the-badge&logo=adobeindesign&logoColor=white) ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-81B649?style=for-the-badge&logo=androidstudio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FD713B?style=for-the-badge&logo=postman&logoColor=white) 
 ---------
 <h3>📊 &nbsp; Github Stats</h3>
 
