@@ -4,7 +4,7 @@
 
 <h3>🧑🏻‍💻 &nbsp; About Me</h3>
 
-<p>I am <strong>full stack</strong> developer with more than 13 years of experience in <strong>front-end</strong> and <strong>back-end</strong>. I have worked with php, javascript languages ​​and I am interested in learning.
+<p>I am <strong>full stack</strong> developer with more than 14 years of experience in <strong>front-end</strong> and <strong>back-end</strong>. I have worked with php, javascript languages ​​and I am interested in learning.
 
 
 -----
@@ -36,7 +36,7 @@
 
 -----
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aref-alapour&layout=donut](https://wakatime.com/share/@aref_alapour/f95327ac-9fcc-433d-ab46-a751749b6206.svg" />
+<img src="https://wakatime.com/share/@aref_alapour/f95327ac-9fcc-433d-ab46-a751749b6206.svg" />
 
 -----
 
