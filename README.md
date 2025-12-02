@@ -33,16 +33,16 @@
 ---------
 <h3>📊 &nbsp; Github Stats</h3>
 
-<div>
-  <img src="https://wakatime.com/share/@aref_alapour/68c134c8-5002-40ec-839a-3efdc7deb65e.png" />
-  <img src="https://wakatime.com/share/@aref_alapour/9f4a730f-3df1-4a21-bb61-7687d9404816.png" />
+<div style="display:flex;gap:50px;">
+  <img src="https://wakatime.com/share/@aref_alapour/68c134c8-5002-40ec-839a-3efdc7deb65e.png" style="border-radius:30px;"/>
+  <img src="https://wakatime.com/share/@aref_alapour/9f4a730f-3df1-4a21-bb61-7687d9404816.png" style="border-radius:30px;"/>
 </div>
 
 -----
 
-<div>
-  <img src="https://wakatime.com/share/@aref_alapour/6014a288-04ac-49dc-93f4-05993445697a.png" />
-  <img src="https://wakatime.com/share/@aref_alapour/01ec7f96-2b41-4f03-b264-842268119363.png" />
+<div style="display:flex;gap:50px;">
+  <img src="https://wakatime.com/share/@aref_alapour/6014a288-04ac-49dc-93f4-05993445697a.png" style="border-radius:30px;"/>
+  <img src="https://wakatime.com/share/@aref_alapour/01ec7f96-2b41-4f03-b264-842268119363.png" style="border-radius:30px;"/>
 </div>
 
 -----
