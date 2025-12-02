@@ -33,17 +33,21 @@
 ---------
 <h3>📊 &nbsp; Github Stats</h3>
 
-<div style="display:flex;gap:50px;">
-  <img src="https://wakatime.com/share/@aref_alapour/68c134c8-5002-40ec-839a-3efdc7deb65e.png" style="border-radius:30px;"/>
-  <img src="https://wakatime.com/share/@aref_alapour/9f4a730f-3df1-4a21-bb61-7687d9404816.png" style="border-radius:30px;"/>
-</div>
+<table>
+  <tr>
+    <td><img src="https://wakatime.com/share/@aref_alapour/68c134c8-5002-40ec-839a-3efdc7deb65e.png" width="400"/></td>
+    <td><img src="https://wakatime.com/share/@aref_alapour/9f4a730f-3df1-4a21-bb61-7687d9404816.png" width="400"/></td>
+  </tr>
+</table>
 
 -----
 
-<div style="display:flex;gap:50px;">
-  <img src="https://wakatime.com/share/@aref_alapour/6014a288-04ac-49dc-93f4-05993445697a.png" style="border-radius:30px;"/>
-  <img src="https://wakatime.com/share/@aref_alapour/01ec7f96-2b41-4f03-b264-842268119363.png" style="border-radius:30px;"/>
-</div>
+<table>
+  <tr>
+    <td><img src="https://wakatime.com/share/@aref_alapour/6014a288-04ac-49dc-93f4-05993445697a.png" width="400"/></td>
+    <td><img src="https://wakatime.com/share/@aref_alapour/01ec7f96-2b41-4f03-b264-842268119363.png" width="400"/></td>
+  </tr>
+</table>
 
 -----
 
