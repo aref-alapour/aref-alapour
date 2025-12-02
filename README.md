@@ -36,7 +36,7 @@
 
 -----
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=aref_alapour" />
+<figure><embed src="https://wakatime.com/share/@aref_alapour/f95327ac-9fcc-433d-ab46-a751749b6206.svg"></embed></figure>
 
 -----
 
