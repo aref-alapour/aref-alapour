@@ -1,36 +1,81 @@
-<h2>Hi There! I,m Aref Alapour 👋🏻</h2>
+<h2>Hi There! I’m Aref Alapour 👋🏻</h2>
 
-<a href="https://arefalapour.ir/"><img width="300px" src="https://github.com/aref-alapour/aref-alapour/blob/main/photo_2025-02-16_17-37-48.jpg" /></a>
+<a href="https://arefalapour.ir/">
+  <img width="300px" src="https://github.com/aref-alapour/aref-alapour/blob/main/photo_2025-02-16_17-37-48.jpg" />
+</a>
+
+---
 
 <h3>🧑🏻‍💻 &nbsp; About Me</h3>
+<p>
+I am a <strong>Full Stack Developer</strong> with more than <strong>14 years of experience</strong> in front-end and back-end development.  
+I have worked extensively with <strong>PHP</strong> and <strong>JavaScript</strong>, and I am always passionate about learning new technologies.
+</p>
 
-<p>I am <strong>full stack</strong> developer with more than 14 years of experience in <strong>front-end</strong> and <strong>back-end</strong>. I have worked with php, javascript languages ​​and I am interested in learning.
-
-
------
-
+---
 
 <h3>👨‍💼 &nbsp; My Skills</h3>
 
+> **`Front End`**  
+> > ![React JS](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+> > ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+> > ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+> > ![Swiper](https://img.shields.io/badge/Swiper-%2300BFFF?style=for-the-badge&logo=swiper&logoColor=white)
+> > ![Embla Carousel](https://img.shields.io/badge/Embla_Carousel-orange?style=for-the-badge)
 
-> **`Front End`**
-> > ![React JS](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-> >
-> **`Back End`**
-> > ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/nest.js-EB2959?style=for-the-badge&logo=nest.js&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-> >
-> **`DataBase`**
-> > ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-> >
-> **`CMS`**
+---
+
+> **`Back End`**  
+> > ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
+> > ![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
+> > ![NestJS](https://img.shields.io/badge/nest.js-EB2959?style=for-the-badge&logo=nest.js&logoColor=white)
+> > ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+> > ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+---
+
+> **`Database`**  
+> > ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+> > ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+> > ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+> **`CMS`**  
 > > ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-> >
-> **`DevOps`**
-> > ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+---
+
+> **`DevOps`**  
+> > ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+> > ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 > > ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+> > ![OpenStack](https://img.shields.io/badge/OpenStack-red?style=for-the-badge&logo=openstack&logoColor=white)
+> > ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+> > ![Coolify](https://img.shields.io/badge/Coolify-4F46E5?style=for-the-badge)
 
+---
 
----------
+> **`CI/CD`**  
+> > ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+> **`Build Tools`**  
+> > ![Webpack](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white)
+> > ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+
+---
+
+> **`AI Tools & LLM`**  
+> > ![Cursor AI](https://img.shields.io/badge/Cursor.ai-black?style=for-the-badge)
+> > ![Jules AI](https://img.shields.io/badge/Jules.ai-orange?style=for-the-badge)
+> > ![Grok AI](https://img.shields.io/badge/Grok.ai-purple?style=for-the-badge)
+> > ![LLM](https://img.shields.io/badge/LLM-000?style=for-the-badge)
+> > ![ALM](https://img.shields.io/badge/ALM-444?style=for-the-badge)
+
+---
+
 <h3>📊 &nbsp; Github Stats</h3>
 
 <table>
@@ -40,7 +85,7 @@
   </tr>
 </table>
 
------
+---
 
 <table>
   <tr>
@@ -49,14 +94,14 @@
   </tr>
 </table>
 
------
+---
 
 <h2>📲 &nbsp; Contact Me</h2>
 
 <div>
-  <a href="https://arefalapour.ir/"><img src="https://img.shields.io/badge/Website-https://arefalapour.ir-red?logo=google-chrome" /></a>
+  <a href="https://arefalapour.ir/"><img src="https://img.shields.io/badge/Website-arefalapour.ir-red?logo=google-chrome" /></a>
   <a href="https://instagram.com/a.alapour"><img src="https://img.shields.io/badge/Instagram-@a.alapour-purple?logo=instagram" /></a>
-  <a href="mailto: arefalapour@gmail.com"><img src="https://img.shields.io/badge/Gmail-arefalapour-orange?logo=gmail" /></a>
+  <a href="mailto:arefalapour@gmail.com"><img src="https://img.shields.io/badge/Gmail-arefalapour-orange?logo=gmail" /></a>
   <a href="https://t.me/arefalapour"><img src="https://img.shields.io/badge/Telegram-@arefalapour-blue?logo=telegram" /></a>
   <a href="https://www.linkedin.com/in/a.alapour/"><img src="https://img.shields.io/badge/Linkedin-a.alapour-87CEEB?logo=linkedin" /></a>
 </div>
