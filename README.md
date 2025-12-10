@@ -1,4 +1,4 @@
-<h2>Hi There! I’m Aref Alapour 👋🏻</h2>
+## Hi There! I’m Aref Alapour 👋🏻
 
 <a href="https://arefalapour.ir/">
   <img width="300px" src="https://github.com/aref-alapour/aref-alapour/blob/main/photo_2025-02-16_17-37-48.jpg" />
@@ -6,17 +6,16 @@
 
 ---
 
-<h3>🧑🏻‍💻 &nbsp; About Me</h3>
-<p>
-I am a <strong>Full Stack Developer</strong> with more than <strong>14 years of experience</strong> in front-end and back-end development.  
-I have worked extensively with <strong>PHP</strong> and <strong>JavaScript</strong>, and I am always passionate about learning new technologies.
-</p>
+### 🧑🏻‍💻 &nbsp; About Me
+
+I am a **Full Stack Developer** with more than **14 years of experience** in front-end and back-end development.  
+I have worked extensively with **PHP** and **JavaScript**, and I am always passionate about learning new technologies.
 
 ---
 
-<h3>👨‍💼 &nbsp; My Skills</h3>
+### 👨‍💼 &nbsp; My Skills
 
-> **`Front End`**  
+> **`Front End`**
 > > ![React JS](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
 > > ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 > > ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -25,49 +24,70 @@ I have worked extensively with <strong>PHP</strong> and <strong>JavaScript</stro
 
 ---
 
-> **`Back End`**  
+> **`Back End`**
 > > ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
 > > ![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
 > > ![NestJS](https://img.shields.io/badge/nest.js-EB2959?style=for-the-badge&logo=nest.js&logoColor=white)
 > > ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 > > ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+> > ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
+> > ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
-> **`Database`**  
+> **`Database`**
 > > ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 > > ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 > > ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-> **`CMS`**  
+> **`CMS`**
 > > ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ---
 
-> **`DevOps`**  
+> **`DevOps`**
 > > ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 > > ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 > > ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+> > ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 > > ![OpenStack](https://img.shields.io/badge/OpenStack-red?style=for-the-badge&logo=openstack&logoColor=white)
 > > ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 > > ![Coolify](https://img.shields.io/badge/Coolify-4F46E5?style=for-the-badge)
+> > ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ---
 
-> **`CI/CD`**  
+> **`CI/CD`**
 > > ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
-> **`Build Tools`**  
+> **`Build Tools`**
 > > ![Webpack](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white)
 > > ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
 ---
 
-> **`AI Tools & LLM`**  
+> **`Cyber Security & Pentest`**
+> > ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+> > ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+> > ![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge)
+> > ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-red?style=for-the-badge)
+> > ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+> > ![CTF](https://img.shields.io/badge/CTF-blue?style=for-the-badge)
+
+---
+
+> **`AI & Data Science`**
+> > ![Data Science](https://img.shields.io/badge/Data_Science-464646?style=for-the-badge)
+> > ![Web Scraping](https://img.shields.io/badge/Web_Scraping-4CAF50?style=for-the-badge)
+> > ![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge)
+
+---
+
+> **`AI Tools & LLM`**
 > > ![Cursor AI](https://img.shields.io/badge/Cursor.ai-black?style=for-the-badge)
 > > ![Jules AI](https://img.shields.io/badge/Jules.ai-orange?style=for-the-badge)
 > > ![Grok AI](https://img.shields.io/badge/Grok.ai-purple?style=for-the-badge)
@@ -76,7 +96,7 @@ I have worked extensively with <strong>PHP</strong> and <strong>JavaScript</stro
 
 ---
 
-<h3>📊 &nbsp; Github Stats</h3>
+### 📊 &nbsp; Github Stats
 
 <table>
   <tr>
@@ -84,8 +104,6 @@ I have worked extensively with <strong>PHP</strong> and <strong>JavaScript</stro
     <td><img src="https://wakatime.com/share/@aref_alapour/9f4a730f-3df1-4a21-bb61-7687d9404816.png" width="400"/></td>
   </tr>
 </table>
-
----
 
 <table>
   <tr>
@@ -96,7 +114,7 @@ I have worked extensively with <strong>PHP</strong> and <strong>JavaScript</stro
 
 ---
 
-<h2>📲 &nbsp; Contact Me</h2>
+## 📲 &nbsp; Contact Me
 
 <div>
   <a href="https://arefalapour.ir/"><img src="https://img.shields.io/badge/Website-arefalapour.ir-red?logo=google-chrome" /></a>
