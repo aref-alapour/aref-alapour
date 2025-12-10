@@ -47,6 +47,13 @@ I have worked extensively with **PHP** and **JavaScript**, and I am always passi
 
 ---
 
+> **`Operating Systems`**
+> > ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+> > ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+> > ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+---
+
 > **`DevOps`**
 > > ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 > > ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -71,7 +78,6 @@ I have worked extensively with **PHP** and **JavaScript**, and I am always passi
 ---
 
 > **`Cyber Security & Pentest`**
-> > ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 > > ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 > > ![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge)
 > > ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-red?style=for-the-badge)
