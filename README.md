@@ -8,8 +8,18 @@
 
 ### 🧑🏻‍💻 &nbsp; About Me
 
-I am a **Full Stack Developer** with more than **14 years of experience** in front-end and back-end development.  
-I have worked extensively with **PHP** and **JavaScript**, and I am always passionate about learning new technologies.
+I'm a **Full Stack Developer** with over **14 years of experience** in front-end and back-end development.  
+My core expertise lies in **PHP**, **Python**, and **JavaScript**, where I've built and delivered numerous projects from concept to production using frameworks like Laravel, CodeIgniter, Django, Flask, React, Next.js, and Node.js.
+
+Beyond web development, I have a strong passion for **Artificial Intelligence**, **Data Science**, **Cyber Security**, and **DevOps**. I'm continuously expanding my skills in areas such as Large Language Models (LLM), fine-tuning, web scraping, penetration testing, and scalable deployments with Kubernetes and Docker.
+
+I have extensive hands-on experience across various environments:
+- Operating systems: **Windows**, **Ubuntu**, and **Kali Linux**
+- Server deployment and management with modern DevOps tools
+- Network and application security testing
+- Building and training AI models
+
+I'm a lifelong learner who thrives on new challenges. My goal is to combine deep software development knowledge with cutting-edge technologies like AI and cyber security to create robust, scalable, and secure solutions.
 
 ---
 
@@ -20,18 +30,19 @@ I have worked extensively with **PHP** and **JavaScript**, and I am always passi
 > > ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 > > ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 > > ![Swiper](https://img.shields.io/badge/Swiper-%2300BFFF?style=for-the-badge&logo=swiper&logoColor=white)
-> > ![Embla Carousel](https://img.shields.io/badge/Embla_Carousel-orange?style=for-the-badge)
+> > ![Embla Carousel](https://img.shields.io/badge/Embla_Carousel-FF6A00?style=for-the-badge)
 
 ---
 
 > **`Back End`**
 > > ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
+> > ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+> > ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+> > ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
 > > ![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
-> > ![NestJS](https://img.shields.io/badge/nest.js-EB2959?style=for-the-badge&logo=nest.js&logoColor=white)
+> > ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 > > ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 > > ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-> > ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
-> > ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
@@ -82,7 +93,7 @@ I have worked extensively with **PHP** and **JavaScript**, and I am always passi
 > > ![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge)
 > > ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-red?style=for-the-badge)
 > > ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-> > ![CTF](https://img.shields.io/badge/CTF-blue?style=for-the-badge)
+> > ![CTF](https://img.shields.io/badge/CTF-FF6F00?style=for-the-badge)
 
 ---
 
@@ -90,15 +101,9 @@ I have worked extensively with **PHP** and **JavaScript**, and I am always passi
 > > ![Data Science](https://img.shields.io/badge/Data_Science-464646?style=for-the-badge)
 > > ![Web Scraping](https://img.shields.io/badge/Web_Scraping-4CAF50?style=for-the-badge)
 > > ![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge)
-
----
-
-> **`AI Tools & LLM`**
-> > ![Cursor AI](https://img.shields.io/badge/Cursor.ai-black?style=for-the-badge)
-> > ![Jules AI](https://img.shields.io/badge/Jules.ai-orange?style=for-the-badge)
-> > ![Grok AI](https://img.shields.io/badge/Grok.ai-purple?style=for-the-badge)
-> > ![LLM](https://img.shields.io/badge/LLM-000?style=for-the-badge)
-> > ![ALM](https://img.shields.io/badge/ALM-444?style=for-the-badge)
+> > ![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
+> > ![Jules AI](https://img.shields.io/badge/Jules_AI-FF6A00?style=for-the-badge)
+> > ![Grok AI](https://img.shields.io/badge/Grok_AI-1A1A1A?style=for-the-badge)
 
 ---
 
