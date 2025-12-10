@@ -28,7 +28,6 @@ I'm a lifelong learner who thrives on new challenges. My goal is to combine deep
 > **`Front End`**
 > > ![React JS](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
 > > ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-> > ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 > > ![Swiper](https://img.shields.io/badge/Swiper-%2300BFFF?style=for-the-badge&logo=swiper&logoColor=white)
 > > ![Embla Carousel](https://img.shields.io/badge/Embla_Carousel-FF6A00?style=for-the-badge)
 
@@ -84,6 +83,7 @@ I'm a lifelong learner who thrives on new challenges. My goal is to combine deep
 
 > **`Build Tools`**
 > > ![Webpack](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white)
+> > ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 > > ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
 ---
