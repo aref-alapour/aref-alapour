@@ -9,7 +9,7 @@
 ### 🧑🏻‍💻 &nbsp; About Me
 
 I'm a **Full Stack Developer** with over **14 years of experience** in front-end and back-end development.  
-My core expertise lies in **PHP**, **Python**, and **JavaScript**, where I've built and delivered numerous projects from concept to production using frameworks like Laravel, CodeIgniter, Django, Flask, React.js,React.native, Next.js, nest.js, express.js and Node.js.
+My core expertise lies in **PHP**, **Python**, and **JavaScript**, where I've built and delivered numerous projects from concept to production using frameworks like Laravel, CodeIgniter, Django, Flask, React.js,React.native, Next.js, Nest.js, Express.js and Node.js.
 
 Beyond web development, I have a strong passion for **Artificial Intelligence**, **Data Science**, **Cyber Security**, and **DevOps**. I'm continuously expanding my skills in areas such as Large Language Models (LLM), fine-tuning, web scraping, penetration testing, and scalable deployments with Kubernetes and Docker.
 
