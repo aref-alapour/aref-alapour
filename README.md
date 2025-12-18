@@ -69,7 +69,6 @@ I'm a lifelong learner who thrives on new challenges. My goal is to combine deep
 > > ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 > > ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
 > > ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-> > ![OpenStack](https://img.shields.io/badge/OpenStack-red?style=for-the-badge&logo=openstack&logoColor=white)
 > > ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 > > ![Coolify](https://img.shields.io/badge/Coolify-4F46E5?style=for-the-badge)
 > > ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
